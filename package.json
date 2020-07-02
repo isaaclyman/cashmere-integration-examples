@@ -1,0 +1,24 @@
+{
+  "name": "cashmere-integration-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaaclyman/cashmere-integration-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaaclyman/cashmere-integration-examples/issues"
+  },
+  "homepage": "https://github.com/isaaclyman/cashmere-integration-examples#readme",
+  "dependencies": {
+    "@healthcatalyst/cashmere": "^7.1.0",
+    "font-awesome": "^4.7.0",
+    "npm-font-open-sans": "^1.1.0"
+  }
+}
